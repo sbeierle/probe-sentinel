@@ -1,0 +1,7 @@
+# Getestet mit: Python 3.11, torch 2.14, transformers 5.17.0, scikit-learn 1.8, scipy, numpy, pytest.
+# torch auf der 7900 XTX: ROCm-Build von pytorch.org installieren (Selector "ROCm"), NICHT den CUDA/CPU-Build.
+transformers>=5.17,<6      # Qwen3.5-Hybrid-Test braucht 5.x; Qwen2.5/Llama laufen auch mit 4.4x
+numpy
+scikit-learn
+scipy
+pytest

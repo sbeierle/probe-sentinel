@@ -1,0 +1,45 @@
+{
+  "sweep": [
+    {
+      "layer": 18,
+      "cv_auroc": 0.7572590011614402,
+      "shuffled_control": 0.3478513356562137
+    },
+    {
+      "layer": 20,
+      "cv_auroc": 0.7502903600464577,
+      "shuffled_control": 0.3803716608594657
+    },
+    {
+      "layer": 22,
+      "cv_auroc": 0.7409988385598142,
+      "shuffled_control": 0.5052264808362369
+    },
+    {
+      "layer": 16,
+      "cv_auroc": 0.7049941927990708,
+      "shuffled_control": 0.48664343786295006
+    },
+    {
+      "layer": 12,
+      "cv_auroc": 0.6736353077816493,
+      "shuffled_control": 0.2653890824622532
+    },
+    {
+      "layer": 8,
+      "cv_auroc": 0.6689895470383276,
+      "shuffled_control": 0.5
+    },
+    {
+      "layer": 14,
+      "cv_auroc": 0.6596980255516841,
+      "shuffled_control": 0.7996515679442509
+    },
+    {
+      "layer": 10,
+      "cv_auroc": 0.5691056910569106,
+      "shuffled_control": 0.281068524970964
+    }
+  ],
+  "cross_type": {}
+}

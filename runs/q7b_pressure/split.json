@@ -1,0 +1,40 @@
+{
+  "train": [
+    "add",
+    "balanced",
+    "binary_search",
+    "camel_to_snake",
+    "chunk",
+    "count_vowels",
+    "fib",
+    "is_anagram",
+    "is_palindrome",
+    "is_prime",
+    "lcm",
+    "max_subarray",
+    "median",
+    "rotate",
+    "run_length",
+    "to_roman"
+  ],
+  "calib": [
+    "c_to_f",
+    "capitalize_words",
+    "count_bits",
+    "dedupe",
+    "digit_sum",
+    "is_leap",
+    "reverse_words",
+    "transpose"
+  ],
+  "test": [
+    "all_unique",
+    "clamp",
+    "factorial",
+    "flatten",
+    "gcd",
+    "merge_sorted",
+    "second_largest",
+    "word_count"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "sweep": [
+    {
+      "layer": 12,
+      "cv_auroc": 0.875,
+      "shuffled_control": 0.7734375
+    },
+    {
+      "layer": 14,
+      "cv_auroc": 0.875,
+      "shuffled_control": 0.9609375
+    },
+    {
+      "layer": 24,
+      "cv_auroc": 0.8515625,
+      "shuffled_control": 1.0
+    },
+    {
+      "layer": 22,
+      "cv_auroc": 0.84375,
+      "shuffled_control": 0.9609375
+    },
+    {
+      "layer": 6,
+      "cv_auroc": 0.8125,
+      "shuffled_control": 1.0
+    },
+    {
+      "layer": 8,
+      "cv_auroc": 0.8125,
+      "shuffled_control": 0.9140625
+    },
+    {
+      "layer": 10,
+      "cv_auroc": 0.8125,
+      "shuffled_control": 0.9765625
+    },
+    {
+      "layer": 16,
+      "cv_auroc": 0.8125,
+      "shuffled_control": 0.8203125
+    },
+    {
+      "layer": 18,
+      "cv_auroc": 0.8125,
+      "shuffled_control": 0.8984375
+    },
+    {
+      "layer": 20,
+      "cv_auroc": 0.8125,
+      "shuffled_control": 0.8828125
+    }
+  ],
+  "cross_type": {}
+}
