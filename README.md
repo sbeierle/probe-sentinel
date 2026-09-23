@@ -227,3 +227,8 @@ python3 pipeline.py $M --tasks data/pressure_tasks.jsonl --out runs/q7b_oneshot 
 python3 generate_dashboard.py                                                 # figure + RESULTS.md
 pytest -q tests/
 ```
+## License
+
+Probe-Sentinel is released under the MIT License.
+
+The project is an independent research prototype and is not affiliated with Goodfire.
